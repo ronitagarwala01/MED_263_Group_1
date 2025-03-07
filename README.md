@@ -1,1 +1,1 @@
-#Skin Cancer Prediction on HAM10000 Dataset
+Skin Cancer Prediction on HAM10000 Dataset
