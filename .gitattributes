@@ -1,0 +1,2 @@
+/Users/agu42_g0x72eo/Documents/GitHub/MED_263_Group_1/HAM10000_sampled_1000.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
